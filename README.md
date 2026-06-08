@@ -15,14 +15,14 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=html,css" />   
 
 ### Mobile App Development
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=reactnative,capacitor,android&titles=true&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=android&titles=true&theme=dark)
 
 ### Framework
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=sinatra,rails" />   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=expo,googleappsscript&titles=true&theme=dark)
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=rails" />  
 <br>
 
 ### Tools
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=clion,idea,rubymine" />   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=googleappsscript,androidstudio,virtualbox&titles=true&theme=dark)
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=clion,idea,rubymine" />   
 
 ### OS
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=redhat" />
