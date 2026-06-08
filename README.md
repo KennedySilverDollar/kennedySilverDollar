@@ -31,7 +31,7 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql&titles=true&theme=dark)
 
 ### Devops
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=render" />   
+<img src="https://go-skill-icons.vercel.app/api/icons?i=render&theme=dark&titles=true" />  
 
 ### Infrastructure
 <img src="https://go-skill-icons.vercel.app/api/icons?i=render&theme=dark&titles=true" />
