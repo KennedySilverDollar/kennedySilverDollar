@@ -21,9 +21,6 @@
 ### Tools
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=clion,idea,rubymine" />   
 
-### Server OS
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=redhat" />
-
 ### Infrastructure
 <img src="https://go-skill-icons.vercel.app/api/icons?i=redhat,mysql,render&theme=dark&titles=true" />
 
