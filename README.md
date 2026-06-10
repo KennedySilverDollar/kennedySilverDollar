@@ -14,9 +14,6 @@
 ### Frontend Development
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=html,css" />   
 
-### Mobile App Development
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=android&titles=true&theme=dark)
-
 ### Framework
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=rails" />  
 <br>
@@ -24,14 +21,11 @@
 ### Tools
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=clion,idea,rubymine" />   
 
-### OS
+### Server OS
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=redhat" />
 
 ### Database
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql&titles=true&theme=dark)
-
-### Devops
-<img src="https://go-skill-icons.vercel.app/api/icons?i=render&theme=dark&titles=true" />  
 
 ### Infrastructure
 <img src="https://go-skill-icons.vercel.app/api/icons?i=render&theme=dark&titles=true" />
