@@ -24,11 +24,8 @@
 ### Server OS
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=redhat" />
 
-### Database
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql&titles=true&theme=dark)
-
 ### Infrastructure
-<img src="https://go-skill-icons.vercel.app/api/icons?i=render&theme=dark&titles=true" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=redhat,mysql,render&theme=dark&titles=true" />
 
 <br>
 
